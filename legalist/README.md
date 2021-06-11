@@ -100,9 +100,11 @@ it is scheduling the spiders on the time mentioned above
 I tried to write the code in a way that is self explanatory
 Also added some comments to further explain the code 
 we can easily attach loggers as well
+
+```python
 import logging
 logger = logging.getLogger(__name__)
-
+```
 
 ### 13: Implement proxying(optional see below)
 
