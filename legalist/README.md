@@ -17,6 +17,14 @@ pip install -r requirements.txt
 import scrapy
 
 scrapy crawl quotes_default
+
+```
+
+## Docker Run
+
+```python
+docker compose-up
+
 ```
 
 # Assignment Details:
