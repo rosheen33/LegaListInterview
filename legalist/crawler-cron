@@ -1,0 +1,5 @@
+0 11,23 * * * scrapy crawl quotes_default
+0 11,23 * * * scrapy crawl quotes_js
+0 11,23 * * * scrapy crawl quotes_login
+0 11,23 * * * scrapy crawl quotes_random
+0 11,23 * * * scrapy crawl quotes_scrolling
