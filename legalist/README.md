@@ -135,5 +135,8 @@ of failure
 
  I have added a spider named quotes_default_redis
  Please have a look to check its functionality
-
+ 
+ 
+### 15 TimeSpent:
+8 hours
  
