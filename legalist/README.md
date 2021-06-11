@@ -20,6 +20,17 @@ scrapy crawl quotes_default
 
 ```
 
+If you want to export the data in json files
+
+Use following command
+
+```python
+import scrapy
+
+scrapy crawl quotes_default -o quotes_default.json
+
+```
+
 ## Docker Run
 
 ```python
